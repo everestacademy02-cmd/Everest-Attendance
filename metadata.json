@@ -1,0 +1,7 @@
+{
+  "name": "EverestAttend",
+  "description": "Photo-based staff attendance and payroll management system for Everest Academy Sec. School.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
